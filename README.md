@@ -51,7 +51,9 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
   - **Summary Document:** `IAT355_Assignment1_FirstNameLastName.md`
 
 
----## Grading Criteria:
+---
+
+## Grading Criteria:
 
 ### For Questions 1-4 (each worth 20 points):
 

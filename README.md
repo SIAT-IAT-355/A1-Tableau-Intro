@@ -6,7 +6,6 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 ## Instructions
 
 ### 1. Getting Started with Tableau
-### 1. Getting Started with Tableau
 - The dataset you will be using is located in the [data](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/tree/main/data) folder of this repository. It contains columns such as site name, country, year of designation, and site category (Cultural, Natural, or Mixed).
 - You can directly access the dataset via [this link](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/blob/main/data/UNESCO_Sites_Data.csv).
 - Download the dataset from the repository and open it in Tableau. Take some time to explore the Tableau interface, including drag-and-drop functionality, chart types, and the data pane.

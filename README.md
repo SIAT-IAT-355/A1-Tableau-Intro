@@ -1,4 +1,5 @@
 # Assignment 1: Introduction to Data Visualization with UNESCO Heritage Sites
+**Due Date:** September 23rd, 11:59 PM
 
 ## Objective
 In this assignment, you’ll get started with Tableau to explore and visualize data. Using the UNESCO World Heritage Sites (2021) dataset, you will create basic visualizations to answer specific questions and propose your own questions for further exploration. This assignment will help you practice creating simple visualizations and interpreting the results.

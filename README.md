@@ -42,40 +42,16 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 
 ### 5. Submission Instructions
 
-1. **Create a Personal Repository:**
-   - On your GitHub account, create a new private repository named **`IAT355_Assignments_FirstNameLastName`**. This will be where you submit all your assignments for this course.
 
-2. **Organize Your Repository:**
-   - Inside your repository, create a folder named **`Assignment1`**.
-   - Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (Markdown or PDF) inside this folder.
-   - Ensure the folder structure looks like this:
-     ```
-     IAT355_Assignments_FirstNameLastName/
-     └── Assignment1/
-         ├── IAT355_Assignment1_FirstNameLastName.twbx
-         └── IAT355_Assignment1_FirstNameLastName.md
-     ```
+- Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (Markdown or PDF) inside a folder.
+- In your summary document, please include **a screenshot or image of each visualization**.
+- Zip the folder and upload the zipped file to the **Assignment 1** submission page on Canvas.
+- Ensure that your Tableau Workbook and summary document are correctly named as:
+  - **Tableau Workbook:** `IAT355_Assignment1_FirstNameLastName.twbx`
+  - **Summary Document:** `IAT355_Assignment1_FirstNameLastName.md`
 
-3. **Push Your Work to GitHub:**
-   - After organizing your files locally, push them to your GitHub repository:
-     ```
-     git add .
-     git commit -m "Add Assignment 1 Submission"
-     git push origin main
-     ```
 
-4. **Submit the GitHub Repository Link:**
-   - Once you’ve pushed your work to GitHub, send an email that includes the link to your repository’s main page to **both** of the following email addresses:
-     - alireza_karduni@sfu.ca
-     - koosha_kabiri@sfu.ca
-   - Example: `https://github.com/YourUsername/IAT355_Assignments_FirstNameLastName`
-   - For the following assignments, we will have access to your repository, and it will not be necessary to send us the link again.
-
-5. **Ensure Privacy Settings:**
-   - Make sure your repository is set to **Private** to maintain your privacy.
-
----
-## Grading Criteria:
+---## Grading Criteria:
 
 ### For Questions 1-4 (each worth 20 points):
 

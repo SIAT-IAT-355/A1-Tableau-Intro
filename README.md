@@ -17,17 +17,13 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 1. **Which country has the most UNESCO World Heritage Sites?**
    - Create a **bar chart** showing the number of sites in each country.
    
-2. **What is the distribution of Cultural, Natural, and Mixed sites?**
+2. **What type of site is most prevelant? Cultural, Natural, and Mixed?**
    - Create a **pie chart** to show the number of Cultural, Natural, and Mixed sites worldwide.
    
 3. **Which decade had the highest number of new site designations?**
-   - Use a **line chart** to show the number of sites designated per decade.
-   
-4. **Where are the UNESCO World Heritage Sites located globally?** _(This question carries additional points)_
-   - Create a **map** showing the locations of UNESCO sites. Use different colors to distinguish between Cultural, Natural, and Mixed sites.
+   - Use a **line or bar chart** to show the number of sites designated per decade.
 
-
-> **Tip:** Don’t worry if this is your first time using Tableau. Focus on practicing how to build simple visualizations step by step.
+> **Tip:** Don’t worry if this is your first time using Tableau. Focus on practicing how to build simple visualizations step by step. Ask questions on Discord :)
 
 ### 3. Analyze Your Findings
 - After you create each visualization, take a moment to describe what you observe. 
@@ -42,51 +38,13 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 
 ### 5. Submission Instructions
 
-
-- Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (Markdown or PDF) inside a folder.
+- You need a summary document to write your responses in and place images of visualizations.
+- Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (PDF) inside a folder.
 - In your summary document, please include **a screenshot or image of each visualization**.
 - Zip the folder and upload the zipped file to the **Assignment 1** submission page on Canvas.
 - Ensure that your Tableau Workbook and summary document are correctly named as:
   - **Tableau Workbook:** `IAT355_Assignment1_FirstNameLastName.twbx`
-  - **Summary Document:** `IAT355_Assignment1_FirstNameLastName.md`
-
-
----
-
-## Grading Criteria:
-
-### For Questions 1-4 (each worth 20 points):
-
-- **Completion and Accuracy of Required Questions:** (10 points)
-  - Have you created the appropriate visualizations for each of the required questions?
-  - Are the visualizations clear and accurate?
-
-- **Clarity and Design of Visualizations:** (5 points)
-  - Are your visualizations easy to read and understand?
-  - Are appropriate titles, labels, and legends used?
-
-- **Basic Analysis and Interpretation:** (5 points)
-  - Have you provided brief, but clear, insights from each visualization?
-  - Is the analysis supported by the data?
-
-### For the Two Proposed Questions (each worth 20 points):
-
-- **Completion and Accuracy of Required Questions:** (8 points)
-  - Have you created the appropriate visualizations for each of the required questions?
-  - Are the visualizations clear and accurate?
-
-- **Clarity and Design of Visualizations:** (4 points)
-  - Are your visualizations easy to read and understand?
-  - Are appropriate titles, labels, and legends used?
-
-- **Basic Analysis and Interpretation:** (4 points)
-  - Have you provided brief, but clear, insights from each visualization?
-  - Is the analysis supported by the data?
-
-- **Creativity in Proposing and Answering New Questions:** (4 points)
-  - Are your proposed questions meaningful and relevant to the dataset?
-
----
+  - **Summary Document:** `IAT355_Assignment1_FirstNameLastName.pdf`
 
 ## Guidance for Beginners:
 - Start simple! Focus on learning how to create basic bar charts, pie charts, and maps.

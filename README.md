@@ -9,9 +9,8 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 ### Getting Started with Tableau
 - Install [Tableau for students](https://www.tableau.com/academic/students), it is free.
 - You can watch a [Tableau Tutorial](https://www.youtube.com/watch?v=9uBtK6j_QgA&ab_channel=LearnitTraining)
-- The dataset you will be using is located in the [data](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/tree/main/data) folder of this repository. It contains columns such as site name, country, year of designation, and site category (Cultural, Natural, or Mixed).
-- You can directly access the dataset via [this link](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/blob/main/data/UNESCO_Sites_Data.csv).
-- Download the dataset from the repository and open it in Tableau. Take some time to explore the Tableau interface, including drag-and-drop functionality, chart types, and the data pane.
+- The dataset you will be using contains columns such as site name, country, year of designation, and site category (Cultural, Natural, or Mixed). You can directly access the dataset via [this link](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/blob/main/data/UNESCO_Sites_Data.csv). The dataset is also available in the Canvas Files section and on the Discord server.
+- Download the dataset and open it in Tableau. Take some time to explore the Tableau interface, including drag-and-drop functionality, chart types, and the data pane.
 
 ### 1. Answer the Following Questions Using Visualizations:
 
@@ -19,7 +18,7 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 1. **Which country has the most UNESCO World Heritage Sites?**
    - Create a **bar chart** showing the number of sites in each country.
    
-2. **What type of site is most prevelant? Cultural, Natural, and Mixed?**
+2. **What type of site is most prevalent? Cultural, Natural, and Mixed?**
    - Create a **pie chart** to show the number of Cultural, Natural, and Mixed sites worldwide.
    
 3. **Which decade had the highest number of new site designations?**

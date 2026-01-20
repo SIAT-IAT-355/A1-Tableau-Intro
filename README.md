@@ -7,7 +7,7 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 ## Instructions
 
 ### Getting Started with Tableau
-- Install [public version of Tableau](https://www.tableau.com/products/public/download), it is free (create an account using your sfu email).
+- Install [public version of Tableau](https://www.tableau.com/support/releases?=academic), it is free (create an account using your sfu email).
 - You can watch a [Tableau Tutorial](https://youtu.be/qZf8sloKPAU?si=EoXrYGHHKqpSYBhF) to learn more details based on the main concepts we covered during the lab session. 
 - The dataset you will be using contains columns such as site name, country, year of designation, and site category (Cultural, Natural, or Mixed). You can directly access the dataset via [this link](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/blob/main/data/UNESCO_Sites_Data.csv). The dataset is also available in the Canvas Files section and on the Discord server.
 - Download the dataset and open it in Tableau. Take some time to explore the Tableau interface, including drag-and-drop functionality, chart types, and the data pane.

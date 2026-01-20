@@ -42,9 +42,9 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 
 ### 4. Submission Instructions
 
-- You need a summary document in **PDF format** to write a brief response for each visualization and place screenshots of your visualizations.
-- Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (PDF) inside a folder.
+- You need a summary document in **PDF format** to write a brief response for each visualization.
 - In your summary document, please include a **screenshot or image of each visualization** and **a brief written response** summarizing your findings for each visualization.
+- Place your Tableau Workbook (`.twb` or `.twbx`) and the summary document (PDF) inside a folder.
 - You also need to record a short video (**no longer than 3 minutes**) explaining your findings in this project:
    - Walk through your visualizations to show your final work.
    - Explain how you created each visualization, including any challenges you encountered.

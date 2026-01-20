@@ -1,5 +1,5 @@
 # Assignment 1: Introduction to Data Visualization with UNESCO Heritage Sites
-**Due Date:** September 22th, 11:55 PM
+**Due Date:** January 26th, 11:55 PM
 
 ## Objective
 In this assignment, you’ll get started with Tableau to explore and visualize data. Using the UNESCO World Heritage Sites (2021) dataset, you will create basic visualizations to answer specific questions and propose your own questions for further exploration. This assignment will help you practice creating simple visualizations and interpreting the results.
@@ -7,7 +7,7 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 ## Instructions
 
 ### Getting Started with Tableau
-- Install [public version of Tableau](https://www.tableau.com/products/public/download), it is free (you might also want to create an account).
+- Install [public version of Tableau](https://www.tableau.com/products/public/download), it is free (create an account using your sfu email).
 - You can watch a [Tableau Tutorial](https://www.youtube.com/watch?v=9uBtK6j_QgA&ab_channel=LearnitTraining) to learn more details based on the main concepts we covered during the lab session. 
 - The dataset you will be using contains columns such as site name, country, year of designation, and site category (Cultural, Natural, or Mixed). You can directly access the dataset via [this link](https://github.com/SIAT-IAT-355/A1-Tableau-Intro/blob/main/data/UNESCO_Sites_Data.csv). The dataset is also available in the Canvas Files section and on the Discord server.
 - Download the dataset and open it in Tableau. Take some time to explore the Tableau interface, including drag-and-drop functionality, chart types, and the data pane.
@@ -42,9 +42,9 @@ In this assignment, you’ll get started with Tableau to explore and visualize d
 
 ### 4. Submission Instructions
 
-- You need a summary document in **PDF format** to write a brief response for each prompt and place screenshots of your visualizations.
+- You need a summary document in **PDF format** to write a brief response for each visualization and place screenshots of your visualizations.
 - Place your Tableau Workbook (`.twb` or `.twbx`) and a summary document (PDF) inside a folder.
-- In your summary document, please include a **screenshot or image of each visualization** and **a brief written response** summarizing your findings for each prompt.
+- In your summary document, please include a **screenshot or image of each visualization** and **a brief written response** summarizing your findings for each visualization.
 - You also need to record a short video (**no longer than 3 minutes**) explaining your findings in this project:
    - Walk through your visualizations to show your final work.
    - Explain how you created each visualization, including any challenges you encountered.
